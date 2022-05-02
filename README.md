@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ethan</h1>
 <h3 align="center">A Korean developer dealing with various fields including games.</h3>
 
-- 🌱 I’m currently learning **Frontend, Backend. Especially NodeJs and Electron**
+- 🌱 I’m currently learning **Frontend, Backend. Especially Babylon.js, NodeJs**
 
 - 💬 Ask me about **Game Develop, Unity, etc...**
 
