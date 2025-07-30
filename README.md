@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2006...<br>🔌Specializing in game and XR content development with Unity 3D. <br>📚 I'm currently learning Unity3D, Some back/frontend, WebGL, etc...<br><br>🎲 resume: Preparing...</p>
+<p align="left">✨ Creating bugs since 2006...<br>🔌Specializing in game and XR content development with Unity 3D.</p>
 
 ###
 
