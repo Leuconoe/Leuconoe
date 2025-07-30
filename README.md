@@ -17,12 +17,5 @@
 <h2 align="left">I code with</h2>
 
 ###
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=unity,unrealengine,aframe,babylondotjs,threedotjs)
-
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=amazonecs,apachejmeter,cloudflare,docker,googleanalytics,mysql,php,progress,python,react)
-
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=atlassian,confluence,git,gitea,github,gitlab,mattermost,notion,slack,redmine)
-
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=adobephotoshop,apache,audacity,aurelia,autohotkey,bitwarden,chocolatey,deepl,diagramsdotnet,dribbble,fdroid,figma,githubcopilot,gnubash,grafana,htop,mingww64,miro,netdata,nginx,nvm,qmk,sketch,stylus)
-
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=unity)
 ###
